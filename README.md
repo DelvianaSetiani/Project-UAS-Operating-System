@@ -1,14 +1,4 @@
 # Project-UAS-Operating-System
-Siap. Aku **perbaiki dan rapikan total** jadi **README GitHub yang profesional, akademik, rapi, dan enak dibaca**, cocok untuk **repository UAS** (bukan gaya chat / laporan panjang).
-Emoji aku **hilangkan**, bahasa dibuat **formal tapi tetap menarik**.
-
-Di bawah ini **VERSI FINAL README.md** yang bisa langsung kamu copy–paste ke GitHub.
-
----
-
-````markdown
-# Project-UAS-Operating-System
-
 Repository ini berisi project pengganti **Ujian Akhir Semester (UAS)** untuk mata kuliah **Praktikum Sistem Operasi**.
 
 Project ini dikembangkan oleh:
