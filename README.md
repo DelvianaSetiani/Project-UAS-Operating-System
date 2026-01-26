@@ -188,7 +188,7 @@ Universitas Kuningan
 
 ---
 
-© 2024 Delviana Setiani
+© 2025 Delviana Setiani
 Fakultas Ilmu Komputer
 Universitas Kuningan
 
